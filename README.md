@@ -10,8 +10,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   2. Windows 10
   3. 16 GB of RAM (integrated graphics recommend 2 GB or more)
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
-  
-## PROCEDURE
+
 
 ### PROCEDURE
 
