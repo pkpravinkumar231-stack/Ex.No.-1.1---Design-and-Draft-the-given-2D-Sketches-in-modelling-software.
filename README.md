@@ -12,7 +12,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 
-### PROCEDURE
+## PROCEDURE
 
 **1. Opening the Software**
 
@@ -119,7 +119,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-
+![image](https://github.com/pkpravinkumar231-stack/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./blob/e286e3006bbbb117f86b02a0ce858a2ee1bc7ddd/WhatsApp%20Image%202026-10-13%20at%209.46.39%20PM.jpeg)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
